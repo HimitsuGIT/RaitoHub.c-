@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Wind596/5e70525464f23e852f0ddec21cd62711/raw/5678b2925c7d728779881cba7db468f7b7b93f15/RaitoHubNewLoader"))()
